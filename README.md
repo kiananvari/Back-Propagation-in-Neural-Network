@@ -22,5 +22,5 @@ You can see the result of the trained models in the document file.
 
 ## Best Result
 
-![App Screenshot](https://github.com/kiananvari/Back-Propagation-in-Neural-Network/raw/main/Result.png)
+![App Screenshot](https://github.com/kiananvari/Back-Propagation-in-Neural-Network/raw/main/Results.png)
 
